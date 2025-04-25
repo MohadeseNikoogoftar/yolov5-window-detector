@@ -1,6 +1,6 @@
 #  YOLOv5 Window Detector
 
-## A deep learning project to detect and count various types of windows (square, rectangular, circular, etc.) on buildings using a custom-trained YOLOv5 model.
+### A deep learning project to detect and count various types of windows (square, rectangular, circular, etc.) on buildings using a custom-trained YOLOv5 model.
 ---
 
 ## 🗂 Dataset Preparation
